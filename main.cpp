@@ -4,6 +4,7 @@
     CPSC 350 section 1
     Assignment 6
     Main class
+    File format is listed in .txt files
     */
 
 #include "Simulation.h"
