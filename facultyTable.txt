@@ -1,11 +1,11 @@
-2
+2 (# of members
 --
-111
-Erik Linstead
-Doctor
-Computer Science
-1
-2222
+111 (id number)
+Erik Linstead (name)
+Doctor (level)
+Computer Science (department)
+1 (# of advisees)
+2222 (ID of advisees)
 --
 333
 Michael Fahy
