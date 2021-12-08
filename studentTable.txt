@@ -1,11 +1,11 @@
-2
+2 (# of students)
 --
-555
-Peter Parker
-Junior
-3.2
-Photography
-111
+555 (ID number)
+Peter Parker (name)
+Junior (grade level)
+3.2 (GPA)
+Photography (Major)
+111 (Advisor ID)
 --
 666
 MJ Watson
