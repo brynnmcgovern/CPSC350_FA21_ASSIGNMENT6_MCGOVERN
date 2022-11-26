@@ -1,3 +1,5 @@
+This program runs a simulation of a directory of faculty and student information at a school. You can edit student and faculty information, and you can add or delete faculty members and students from the directory. An example of file format is listed under facultyTable.txt and studentTable.txt.
+
 1.Brynn McGovern
 
 2730579
